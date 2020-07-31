@@ -1,4 +1,2 @@
 config:
-  info: zhaoqi version:1
-server:
-  port: zhaoqi version:1
+  info: "zhaoqi version:1"
